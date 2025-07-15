@@ -24,8 +24,8 @@ const config = {
   title: "Privacy-first zkRollup | Aztec Documentation",
   tagline:
     "Aztec introduces a privacy-centric zkRollup solution for Ethereum, enhancing confidentiality and scalability within the Ethereum ecosystem.",
-  url: "https://docs.aztec.network/",
-  baseUrl: "/",
+  url: "https://rknhr-uec.github.io",
+  baseUrl: "/aztec-protocol-spec",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: process.env.ENV === "dev" ? "warn" : "throw",
